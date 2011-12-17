@@ -20,6 +20,9 @@ printf ("H thesh mnimis tou A einai %d \n",A);
 printf ("H thesh mnimis tou A+1 einai %d \n",A+1);
 printf ("To apotelesma pou pernw otan kanw cast th thesh mnimis tou A se akereo kai prosthesw to 1 einai %d \n",(((int) A) + 1));
 printf ("H thesh mnhmhs tou deuterou stixeiou tou A einai %d \n",&A[1]);
+printf ("------------------------------------- \n");
+printf ("To megethos tou A einai %d \n", sizeof(A));
+printf ("To megethos enos stoixeiou tou A einai %d \n", sizeof (A[1]));
 getchar();
 }
 

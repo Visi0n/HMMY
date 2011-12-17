@@ -8,8 +8,7 @@
  
 #include <stdio.h>
 #include <stdlib.h>
-int glob;
-
+int glob; /* h global metavlith */
 int main()
 {
 int local;

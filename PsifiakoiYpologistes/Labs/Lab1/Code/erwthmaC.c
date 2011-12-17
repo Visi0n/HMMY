@@ -21,6 +21,6 @@ struct{
        
 int main (){
     printf("H mnhmh poy desmevetai gia to AS einai %d \n",sizeof(AS));
-    printf("H mnhmh poy desmevetai gia to AS einai %d \n",sizeof(BS));
+    printf("H mnhmh poy desmevetai gia to BS einai %d \n",sizeof(BS));
     getchar();
 }
