@@ -5,7 +5,7 @@
  * AM: 2009030087  
  * erwthma b)                  
  **************************************/
- #include <stdio.h>
+#include <stdio.h>
 #include <stdlib.h>
 int main() {
     int a,b,c ;
